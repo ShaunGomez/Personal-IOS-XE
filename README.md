@@ -1,7 +1,7 @@
 # Personal-IOS-XE
 Python scripts for Cisco IOS-XE based devices (ASR, Catalyst, etc)
 
-cdp_lldp.py: Use this on-box python script to display BOTH CDP and LLDP neighbors in a mixed vendor network. This script can be used on any Cisco IOS-XE that supports on-box python3 and is running both the LLDP and CDP process. 
+**cdp_lldp.py**: Use this on-box python script to display BOTH CDP and LLDP neighbors in a mixed vendor network. This script can be used on any Cisco IOS-XE that supports on-box python3 and is running both the LLDP and CDP process. 
 
 To make things even easier, create a CLI alias to execute this python script and make it feel like a native CLI command.
 
